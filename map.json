@@ -25,7 +25,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/corridor-map\/map.json#front_of_tower"
+                 "value":"..\/corridors-map\/map.json#front_of_tower"
                 }],
          "type":"tilelayer",
          "visible":true,
