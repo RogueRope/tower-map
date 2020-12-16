@@ -86,7 +86,7 @@
          "height":32,
          "id":17,
          "name":"jitsi_room_1",
-         "opacity":1,
+         "opacity":0.1,
          "properties":[
                 {
                  "name":"jitsiRoom",
@@ -94,7 +94,7 @@
                  "value":"dsfsdfsdfsdf"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
